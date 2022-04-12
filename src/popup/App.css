@@ -1,0 +1,12 @@
+.App {
+  /* text-align: center; */
+  width: 100%;
+  max-height: 400px;
+  overflow: auto;
+  box-sizing: border-box;
+  padding: 16px;
+}
+.ant-table{
+  font-size: 12px !important;
+  min-width: 350px;
+}
